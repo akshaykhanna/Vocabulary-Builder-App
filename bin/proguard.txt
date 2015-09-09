@@ -1,0 +1,12 @@
+# view AndroidManifest.xml #generated:26
+-keep class com.akshayk.vocabuilder.About { <init>(...); }
+
+# view AndroidManifest.xml #generated:42
+-keep class com.akshayk.vocabuilder.AboutUs { <init>(...); }
+
+# view AndroidManifest.xml #generated:36
+-keep class com.akshayk.vocabuilder.ListMenu { <init>(...); }
+
+# view AndroidManifest.xml #generated:16
+-keep class com.akshayk.vocabuilder.MainActivity { <init>(...); }
+

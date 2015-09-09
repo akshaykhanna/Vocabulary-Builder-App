@@ -1,0 +1,8 @@
+Find the greatest number that will divide 43, 91 and 183 so as to leave the same remainder in each case. - 4
+
+Six bells commence tolling together and toll at intervals of 2, 4, 6, 8 10 and 12 seconds respectively. In 30 minutes, how many times do they toll together. - 16
+
+ 	
+
+The least number which should be added to 2497 so that the sum is exactly divisible by 5, 6, 4 and 3 is. - 23 	
+Find the lowest common multiple of 24, 36 and 40. - 360
